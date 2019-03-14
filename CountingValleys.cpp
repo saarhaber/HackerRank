@@ -3,6 +3,7 @@
 using namespace std;
 
 //My code
+//My score for this challenge is 9/15.
 int countingValleys(int n, string s) {
 int level = 0;
 int valley = 0;
